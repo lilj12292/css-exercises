@@ -29,7 +29,6 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 > [!IMPORTANT]
 > Do not submit your solutions to this repo, as any PRs that do so will be closed without merging.
 
-## RANDOM STUFF
 
 ## Some Hints
 - The provided example solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (e.g. there might be a `body {}` in the given CSS and another `body {}` in the solution). When you are working on an exercise, it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
